@@ -1,5 +1,2 @@
 aaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbb
-
-
-kurorekisi
